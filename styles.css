@@ -1,0 +1,104 @@
+
+.header{
+    text-align: center;
+    color: whitesmoke;
+    background-image: url(coffeee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+h1{
+    color: #20110f;
+    font-family: 'https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Raleway:100,500,600,800';
+    font-size: 55px;
+}
+body{
+    background-color: beige;
+}
+.roasting{
+    background-color: white;
+    margin: 30px;
+    padding: 20px;
+}
+.roasting h3, p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.green{
+    text-align: left;
+    background-color: #8FCF92;
+    color: rgb(224, 221, 221);
+    padding: 10px;
+}
+.green p {
+    text-align: left;
+}
+.green h4 {
+    color: white;
+    font-size: 20px;
+}
+.light{
+    background-color: #c28b63;
+    color: rgb(224, 221, 221);
+    padding: 10px;
+}
+.light p {
+    text-align: left;
+}
+.light h4 {
+    color: white;
+    font-size: 20px;
+}
+.city{
+    background-color: #865734;
+    color: rgb(224, 221, 221);
+    padding: 10px;
+}
+.city p {
+    text-align: left;
+}
+.city h4 {
+    font-size: 20px;
+    color: white;
+}
+.vienna{
+    background-color: rgb(155, 67, 67);
+    color: rgb(224, 221, 221);
+    padding: 10px;
+}
+.vienna p {
+    text-align: left;
+}
+.vienna h4 {
+    color: white;
+    font-size: 20px;
+}
+.italian{
+    background-color: black;
+    color: rgb(224, 221, 221);
+    padding: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.italian p {
+    text-align: left;
+}
+.italian h4 {
+    color: white;
+    font-size: 20px;
+}
+.country a {
+    font-weight: bold;
+    color: rgb(8, 79, 8);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.country h2 {
+    color: #D9A47D;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.country p{
+    margin: 10px;
+    color: #555;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
